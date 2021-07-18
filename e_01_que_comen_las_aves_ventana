@@ -1,0 +1,113 @@
+Entre las aves que llegan a comer fruta todos los días a mi casa he identificado 9 especies, además de alegrarme la vida son una fuente inagotable de datos curiosos, divertidos e interesantes. Entre tantas cosas que se me ocurren, quise llevar un registro del peso diario de las frutas, para averiguar que tanto comen estas aves que llegan a mi ventana.
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/YyKBbuZHMYI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+<h3>Metodología</h3>
+<ol>
+ 	<li>Elaborar un formato o plantilla en una hoja de cálculo para registrar los datos de las frutas que pongo a en la ventana para los pájaros.
+
+[caption id="attachment_941" align="aligncenter" width="536"]<img class="size-full wp-image-941" src="http://tangaritas.com/wp-content/uploads/2021/07/plantilla.jpg" alt="Plantilla para el registro del alimento de aves" width="536" height="178" /> Formato para el registro del alimento de aves[/caption]</li>
+ 	<li>Pesar las frutas: Para esto usé una gramera sencilla de uso doméstico. La verdad es que entre pesar la fruta y ponerla en la ventana no me toma más de 5 minutos diarios.
+
+[caption id="attachment_945" align="aligncenter" width="225"]<img class="wp-image-945 size-medium" src="http://tangaritas.com/wp-content/uploads/2021/07/pesando_fruta-1-225x300.jpg" alt="peso de fruta en una gramera de cocina" width="225" height="300" /> Pesando fruta en una gramera[/caption]</li>
+ 	<li>Análisis de los datos: Aunque esto puede hacerse con una hoja de cálculo sencilla, yo utilicé una librería para el manejo de datos que llama <a href="https://pandas.pydata.org/" target="_blank" rel="noopener">Pandas</a>, esta es conocida como "el Excel de Python", para los algunos gráficos me apoyé con la librería <a href="https://matplotlib.org/" target="_blank" rel="noopener">Matplotlib</a>.</li>
+</ol>
+Como resultado, luego de probar con varias frutas, finalmente, el plátano fue el más costo-efectivo. La naranja casi no les gusta y con el banano y la papaya me hacen un estropicio que llega hasta la ventana de mi vecina. Ahora, calificar entre que fruta les gusta más, podría ser un experimento posterior.
+<h3>Lo que dicen los datos</h3>
+En los últimos cinco meses he puesto para los pájaros un total de 24212 g de fruta en la ventana, de los cuales su distribución se puede ver en la siguiente gráfica:
+
+<img class="size-full wp-image-951 aligncenter" src="http://tangaritas.com/wp-content/uploads/2021/07/pie_chart.png" alt="Gráfico de torta de lo que comen las aves en mi ventana" width="583" height="594" />
+
+Tal como lo esperaba, la fruta que más han comido las aves en mi ventana en los últimos cinco meses, ha sido plátano maduro. Sin embargo, hay unos datos interesantes que me gustó conocer, por ejemplo que en cinco meses han comido casi 18 kg de plátano, 4 kg de banano, 1.6 kg de papaya y 1 kg de naranja.
+
+De la misma forma, en cinco meses he gastado $ 56949.6 pesos colombianos que equivalen a aproximadamente a 15 USD.
+
+<img class="size-full wp-image-948 aligncenter" src="http://tangaritas.com/wp-content/uploads/2021/07/bar_chart.png" alt="Gráfico de barras de lo que comen las aves" width="660" height="300" />
+<h3>Conclusiones</h3>
+<ul>
+ 	<li>Las aves de mi ventana comen en promedio <strong>4842.4 g</strong> de fruta al mes, es decir casi 5 kg. La variación entre los meses puede que sea vea afectada por las épocas de migración y cosecha de frutas en la región. Aunque el promedio no es siempre la mejor forma de llegar a conclusiones, para este caso puede servir para responder a mi pregunta inicial.</li>
+ 	<li>Sería interesante hacer experimentos con otras frutas diferentes, puede ser que no siempre tenga disponibilidad del plátano, por ejemplo la papaya es una fruta que pareciera que les gusta mucho, sin embargo por la ubicación de mi ventana no es buena idea. Es cuestión de hacer pruebas a ver con que fruta va mejor.</li>
+ 	<li>Con muy poco dinero puedo ser feliz viendo pajaritos en mi ventana, a la vez que puedo ayudar sobre todo en épocas de escasez de alimentos o de migración de aves.</li>
+ 	<li>Como siempre sucede, responder preguntas lleva a hacerse más preguntas, luego de este sencillo experimento me surgen nuevas dudas, como por ejemplo:
+<ul>
+ 	<li>¿Qué fruta prefieren las aves de mi ventana?</li>
+ 	<li>¿Por qué hay días que comen más que otros?</li>
+ 	<li>¿En qué mes comen más las aves que llegan a mi ventana?</li>
+ 	<li>¿En qué época llegan más aves?</li>
+</ul>
+</li>
+</ul>
+<h3>Datos adicionales</h3>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>Listado de especies identificadas en mi ventana:
+<table dir="ltr" cellspacing="0" cellpadding="0"><colgroup> <col width="22" /> <col width="151" /> <col width="246" /> <col width="162" /></colgroup>
+<tbody>
+<tr>
+<td><strong>#</strong></td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nombre científico&quot;}"><strong>Nombre científico</strong></td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nombre común (Español)&quot;}"><strong>Nombre común (Español)</strong></td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nombre común (Inglés)&quot;}"><strong>(Inglés) Nombre común</strong></td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coereba flaveola&quot;}">Coereba flaveola</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mielero&quot;}">Mielero</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bananaquit&quot;}">Bananaquit</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Euphonia laniirostris&quot;}">Euphonia laniirostris</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Eufonia piquigruesa&quot;}">Eufonia piquigruesa</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thick-billed euphonia&quot;}">Thick-billed euphonia</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Icterus nigrogularis&quot;}">Icterus nigrogularis</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Turpial amarillo&quot;}">Turpial amarillo</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Yellow oriole&quot;}">Yellow oriole</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}">4</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Melanerpes rubricapillus&quot;}">Melanerpes rubricapillus</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Carpintero habado&quot;}">Carpintero habado</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Red-crowned woodpecker&quot;}">Red-crowned woodpecker</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}">5</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pitangus sulphuratus&quot;}">Pitangus sulphuratus</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bichofué gritón&quot;}">Bichofué gritón</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Great kiskadee&quot;}">Great kiskadee</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6}">6</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Stilpnia vitriolina&quot;}">Stilpnia vitriolina</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tangara rastrojera / Tangara matorralera&quot;}">Tangara rastrojera / Tangara matorralera</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scrub tanager&quot;}">Scrub tanager</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7}">7</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thraupis episcopus&quot;}">Thraupis episcopus</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tangara Azuleja / Azulejo&quot;}">Tangara Azuleja / Azulejo</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Blue-gray tanager&quot;}">Blue-gray tanager</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8}">8</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thraupis palmarum&quot;}">Thraupis palmarum</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tangara palmera / Azulejo palmero&quot;}">Tangara palmera / Azulejo palmero</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Palm tanager&quot;}">Palm tanager</td>
+</tr>
+<tr>
+<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:9}">9</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Turdus ignobilis&quot;}">Turdus ignobilis</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mirla ollera / Zorzal Piquinegro&quot;}">Mirla ollera / Zorzal Piquinegro</td>
+<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Black-billed thrush&quot;}">Black-billed thrush</td>
+</tr>
+</tbody>
+</table>
+</li>
+ 	<li>Repositorio del Proyecto en <a href="https://github.com/tangaritas/birds_food" target="_blank" rel="noopener"><strong>GitHub</strong></a></li>
+ 	<li>Notebook de análisis de datos en <a href="https://deepnote.com/project/birdsfood-ShCjrq8uTe2TY712XMHr0w/%2Fnotebook.ipynb" target="_blank" rel="noopener"><strong>Deepnote</strong></a></li>
+</ul>
+</li>
+</ul>
