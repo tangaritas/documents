@@ -1,4 +1,4 @@
-Entre las aves que llegan a comer fruta todos los días a mi casa he identificado 9 especies, además de alegrarme la vida son una fuente inagotable de datos curiosos, divertidos e interesantes. Entre tantas cosas que se me ocurren, quise llevar un registro del peso diario de las frutas, para averiguar que tanto comen estas aves que llegan a mi ventana.
+Entre las aves que llegan a comer fruta todos los días a nuestra casa hemos identificado 13 especies, de las cuales 9 incluyen frutas en su alimentación. Además de alegrarnos la vida son una fuente inagotable de datos curiosos, divertidos e interesantes. Entre tantas cosas que se nos ocurren, quisimos llevar un registro del peso diario de las frutas, para averiguar que tanto comen estas aves que llegan a la ventana.
 <p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/YyKBbuZHMYI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <h3>Metodología</h3>
@@ -38,76 +38,100 @@ De la misma forma, en cinco meses he gastado $ 56949.6 pesos colombianos que equ
 </ul>
 <h3>Datos adicionales</h3>
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li>Listado de especies identificadas en mi ventana:
-<table dir="ltr" cellspacing="0" cellpadding="0"><colgroup> <col width="22" /> <col width="151" /> <col width="246" /> <col width="162" /></colgroup>
+<div style="overflow-x: auto;">
+<table>
 <tbody>
 <tr>
-<td><strong>#</strong></td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nombre científico&quot;}"><strong>Nombre científico</strong></td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nombre común (Español)&quot;}"><strong>Nombre común (Español)</strong></td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nombre común (Inglés)&quot;}"><strong>(Inglés) Nombre común</strong></td>
+<td style="text-align: center; vertical-align: middle;">#</td>
+<td style="text-align: center; vertical-align: middle;"><strong>Nombre común (Español)</strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>(Inglés) Nombre común</strong></td>
+<td style="text-align: center; vertical-align: middle;"><strong>Nombre científico</strong></td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}">1</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Coereba flaveola&quot;}">Coereba flaveola</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mielero&quot;}">Mielero</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bananaquit&quot;}">Bananaquit</td>
+<td style="text-align: center; vertical-align: middle;">1</td>
+<td style="text-align: center; vertical-align: middle;">Mango pechinegro</td>
+<td style="text-align: center; vertical-align: middle;">Black-throated mango</td>
+<td style="text-align: center; vertical-align: middle;">Anthracothorax nigricollis</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}">2</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Euphonia laniirostris&quot;}">Euphonia laniirostris</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Eufonia piquigruesa&quot;}">Eufonia piquigruesa</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thick-billed euphonia&quot;}">Thick-billed euphonia</td>
+<td style="text-align: center; vertical-align: middle;">2</td>
+<td style="text-align: center; vertical-align: middle;">Amazilia verdiazul</td>
+<td style="text-align: center; vertical-align: middle;">Steely-vented hummingbird</td>
+<td style="text-align: center; vertical-align: middle;">Amazilia saucerottei</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}">3</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Icterus nigrogularis&quot;}">Icterus nigrogularis</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Turpial amarillo&quot;}">Turpial amarillo</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Yellow oriole&quot;}">Yellow oriole</td>
+<td style="text-align: center; vertical-align: middle;">3</td>
+<td style="text-align: center; vertical-align: middle;">Amazilia colirrufa</td>
+<td style="text-align: center; vertical-align: middle;">Rufous-tailed hummingbird</td>
+<td style="text-align: center; vertical-align: middle;">Amazilia tzacatl</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}">4</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Melanerpes rubricapillus&quot;}">Melanerpes rubricapillus</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Carpintero habado&quot;}">Carpintero habado</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Red-crowned woodpecker&quot;}">Red-crowned woodpecker</td>
+<td style="text-align: center; vertical-align: middle;">4</td>
+<td style="text-align: center; vertical-align: middle;">Carpintero habado*</td>
+<td style="text-align: center; vertical-align: middle;">Red-crowned woodpecker</td>
+<td style="text-align: center; vertical-align: middle;">Melanerpes rubricapillus</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}">5</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pitangus sulphuratus&quot;}">Pitangus sulphuratus</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bichofué gritón&quot;}">Bichofué gritón</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Great kiskadee&quot;}">Great kiskadee</td>
+<td style="text-align: center; vertical-align: middle;">5</td>
+<td style="text-align: center; vertical-align: middle;">Bichofué gritón*</td>
+<td style="text-align: center; vertical-align: middle;">Great kiskadee</td>
+<td style="text-align: center; vertical-align: middle;">Pitangus sulphuratus</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6}">6</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Stilpnia vitriolina&quot;}">Stilpnia vitriolina</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tangara rastrojera / Tangara matorralera&quot;}">Tangara rastrojera / Tangara matorralera</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scrub tanager&quot;}">Scrub tanager</td>
+<td style="text-align: center; vertical-align: middle;">6</td>
+<td style="text-align: center; vertical-align: middle;">Mirla ollera / Zorzal Piquinegro*</td>
+<td style="text-align: center; vertical-align: middle;">Black-billed thrush</td>
+<td style="text-align: center; vertical-align: middle;">Turdus ignobilis</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7}">7</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thraupis episcopus&quot;}">Thraupis episcopus</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tangara Azuleja / Azulejo&quot;}">Tangara Azuleja / Azulejo</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Blue-gray tanager&quot;}">Blue-gray tanager</td>
+<td style="text-align: center; vertical-align: middle;">7</td>
+<td style="text-align: center; vertical-align: middle;">Eufonia piquigruesa*</td>
+<td style="text-align: center; vertical-align: middle;">Thick-billed euphonia</td>
+<td style="text-align: center; vertical-align: middle;">Euphonia laniirostris</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8}">8</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thraupis palmarum&quot;}">Thraupis palmarum</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tangara palmera / Azulejo palmero&quot;}">Tangara palmera / Azulejo palmero</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Palm tanager&quot;}">Palm tanager</td>
+<td style="text-align: center; vertical-align: middle;">8</td>
+<td style="text-align: center; vertical-align: middle;">Tangara Azuleja / Azulejo*</td>
+<td style="text-align: center; vertical-align: middle;">Blue-gray tanager</td>
+<td style="text-align: center; vertical-align: middle;">Thraupis episcopus</td>
 </tr>
 <tr>
-<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:9}">9</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Turdus ignobilis&quot;}">Turdus ignobilis</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mirla ollera / Zorzal Piquinegro&quot;}">Mirla ollera / Zorzal Piquinegro</td>
-<td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Black-billed thrush&quot;}">Black-billed thrush</td>
+<td style="text-align: center; vertical-align: middle;">9</td>
+<td style="text-align: center; vertical-align: middle;">Tangara palmera / Azulejo palmero*</td>
+<td style="text-align: center; vertical-align: middle;">Palm tanager</td>
+<td style="text-align: center; vertical-align: middle;">Thraupis palmarum</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">10</td>
+<td style="text-align: center; vertical-align: middle;">Tangara rastrojera / Tangara matorralera*</td>
+<td style="text-align: center; vertical-align: middle;">Scrub tanager</td>
+<td style="text-align: center; vertical-align: middle;">Stilpnia vitriolina</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">11</td>
+<td style="text-align: center; vertical-align: middle;">Canario arrocero</td>
+<td style="text-align: center; vertical-align: middle;">Saffron finch</td>
+<td style="text-align: center; vertical-align: middle;">Sicalis flaveola</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">12</td>
+<td style="text-align: center; vertical-align: middle;">Mielero*</td>
+<td style="text-align: center; vertical-align: middle;">Bananaquit</td>
+<td style="text-align: center; vertical-align: middle;">Coereba flaveola</td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: middle;">13</td>
+<td style="text-align: center; vertical-align: middle;">Turpial amarillo*</td>
+<td style="text-align: center; vertical-align: middle;">Yellow oriole</td>
+<td style="text-align: center; vertical-align: middle;">Icterus nigrogularis</td>
 </tr>
 </tbody>
 </table>
-</li>
+</div>
+* Incluyen frutas en su alimentación</li>
  	<li>Repositorio del Proyecto en <a href="https://github.com/tangaritas/birds_food" target="_blank" rel="noopener"><strong>GitHub</strong></a></li>
+ 	<li style="list-style-type: none;"></li>
  	<li>Notebook de análisis de datos en <a href="https://deepnote.com/project/birdsfood-ShCjrq8uTe2TY712XMHr0w/%2Fnotebook.ipynb" target="_blank" rel="noopener"><strong>Deepnote</strong></a></li>
-</ul>
-</li>
+ 	<li style="list-style-type: none;"></li>
 </ul>
